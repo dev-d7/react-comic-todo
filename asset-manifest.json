@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-comic-todo/static/css/main.e6c13ad2.css",
+    "main.js": "/react-comic-todo/static/js/main.45bcf86d.js",
+    "static/js/453.bd5f1d19.chunk.js": "/react-comic-todo/static/js/453.bd5f1d19.chunk.js",
+    "index.html": "/react-comic-todo/index.html",
+    "main.e6c13ad2.css.map": "/react-comic-todo/static/css/main.e6c13ad2.css.map",
+    "main.45bcf86d.js.map": "/react-comic-todo/static/js/main.45bcf86d.js.map",
+    "453.bd5f1d19.chunk.js.map": "/react-comic-todo/static/js/453.bd5f1d19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.45bcf86d.js"
+  ]
+}
